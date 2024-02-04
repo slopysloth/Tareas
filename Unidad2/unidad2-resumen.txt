@@ -1,0 +1,11 @@
+Tipos de datos
+
+Existen tipos de datos númericos como long, short, int, float, double.
+Tipos de datos que representan valores booleanos, usualmente llamados boolean o bool.
+Cadenas de caracteres llamadas string y el tipo de dato char que representa un caracter.
+
+Estructuras de control de flujo
+
+Estas pueden resumirse en: if, else, if else, switch.
+Tambien existen maneras de repetir instrucciones: while, for loop, do while.
+

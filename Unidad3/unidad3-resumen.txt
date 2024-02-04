@@ -1,0 +1,16 @@
+Controlador de versiones
+
+Es un programa o una clase sistemas que es responsable de manejar y seguir los cambios realizados a codigo fuente, documentos,
+imagenes u otro tipo de archivo de computadora. En lo que un equipo diseña, desarrolla y publica software,
+es normal que multiples versiones del mismo software esten siendo modificadas por diferentes desarrolladores al mismo tiempo.
+Por lo que es recomendado que en el desarrollo de software se utilice un controlador de versiones para automatizar el manejo
+de versiones.
+
+Que es Git
+Git es un sistema de control de versiones distribuido que sigue los cambios en cualquier grupo de archivos de computadora,
+normalmente usado para coordinar trabajo entre programadores.
+
+Que es github
+Es una plataforma que permite a los desarrolladores colaborar, compartir su codigo.
+Utiliza Git y añade nuevas caracteristicas como bug tracking y pull requests.
+

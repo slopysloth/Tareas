@@ -1,0 +1,5 @@
+El sistema binario es fundamental para las computadoras, solo existen dos valores 0 y 1.
+En los primeros años de la computacion, se utilizaron interruptores para realizar calculos.
+Cualquier numero puede ser representado en una serie de unos y ceros, que a su vez puede ser representado por cualquier mecanismo
+capaz de estar en estados mutuamente exclusivos.
+
